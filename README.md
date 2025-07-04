@@ -10,10 +10,11 @@ This project is a classic image classification model that distinguishes between 
 - **.h5 model** for quick inference
 
 ## 🗂️ File Structure
-
+```
 cat_dog_classifier/
 ├── cat_dog_classifier.py # Main script for model training
 ├── run_predict.py # Inference script
 ├── cat_dog_model.h5 # Saved model weights
 ├── dataset/ # Contains training and validation images
 ├── Unknown.jpeg # Sample image for testing
+```
